@@ -55,7 +55,7 @@ Le fichier source [`data/datasets_tp1.csv`](data/datasets_tp1.csv) contient nota
 Le projet nécessite Python 3 et pandas.
 
 ```bash
-git clone <URL_DU_DEPOT>
+git clone https://github.com/Adam01-i/senegal-customer-data-cleaning
 cd senegal-customer-data-cleaning
 
 python3 -m venv venv

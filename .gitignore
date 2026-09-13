@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/customers_clean.csv
+.ipynb_checkpoints/
+.DS_Store
